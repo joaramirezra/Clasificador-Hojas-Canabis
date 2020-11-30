@@ -1,9 +1,12 @@
-## Clasificador y deteccion de anomalias en hojas de cannabis 
+## detection and clustering of anomalies in cannabis leafs
 
-El siguiente repositorio cuenta con el data set con 4 clases ( hojas : sanas, deshidratadas, atacadas por insectos y con manchas) dentro de la carpeta Imagenes
-y con distintos notebooks de python que permiten extraer caracteristicas asociadas al color y forma de la hoja, tambien cuenta con un notebook que evalua distintos modelos
-de clasificiacion, incluyendo matrices de confusion y algunos conclusiones
-
+This repo aims to give a data set for academic procces, by giving a dataset with 4 classes :
+ - helathy
+ - deshidatate 
+ - leaf affected by bug 
+ - leaf with stain
+ 
+The repo also have 2 jupyters noteboks, one with a classic aproach and the other with ML techniques, both helps to detect borders and extract features 
 
 ### Instalación 
 Se recomienda abrir los notebooks por medio de la herramienta [colab](https://colab.research.google.com/)
