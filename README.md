@@ -1,4 +1,4 @@
-# Deteccion y clasificacion de anomalias en hojas de cannabis
+# Deteccion y clasificación de anomalias en hojas de cannabis
 ## Version 2.0
 
 El presente repositorio posee la informacion para necesaria para replicar el proceso de extraccion y clasificacion de anomalias en hojas de cannabis, Dicha clasificacion se realiza en el siguiente conjunto de datos
