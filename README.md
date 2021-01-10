@@ -23,6 +23,7 @@ Se recomienda abrir los notebooks por medio de la herramienta [colab](https://co
 
 ### Explicacion y resultados
 
+la primera version usaba un umbralizado gaussiano, sin embargo la segunda version ya posee un suavizado por meanshift y un umbralizado binario, lo cual permite mejorar el desempeño en la enmascaracion de la zona de interes 
 # Cambio de color 
 
 - 
