@@ -41,7 +41,7 @@ Anomalias
 cualquier pull request es bienvenido, para cambios mayores por favor abrir un issue para discutir los cambios que se requieran hacer
 
 ### Colaboradores :
-- [Johan](https://github.com/joaramirezra/)
+- [Johan Ramirez](https://github.com/joaramirezra/)
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
